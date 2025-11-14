@@ -1,4 +1,32 @@
 * {
     font: "Arial", sans-serif;
-    background-color: rgb(255, 247, 236)
+    background-color: rgb(255, 196, 162);
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 36px;
+    padding: 32px;
+    border: 2px solid black;
+    border-left: 0px;
+    border-right: 0px;
+    background-color: white;
+}
+
+.recipes {
+    font-size: 24px;
+    margin: 32px;
+    background-color: white;
+    border: 2px solid black;
+    border-top: 0px;
+}
+
+.recipes a {
+    margin: 32px 16px;
+    background-color: white;
+}
+
+.link {
+    background-color: white;
+    color: blue;
 }
