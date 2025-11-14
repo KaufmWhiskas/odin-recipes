@@ -26,7 +26,35 @@
     background-color: white;
 }
 
+.recipe-title {
+    color:rgb(131, 70, 0);
+}
+
 .link {
     background-color: white;
     color: blue;
+}
+
+img {
+    margin: 32px;
+}
+
+body,
+p,
+li,
+h3,
+ul,
+ol,
+a {
+    background-color: white;
+    margin-left: 8px;
+}
+
+p {
+    margin-left: 16px;
+
+}
+
+body {
+    margin: 32px;
 }
